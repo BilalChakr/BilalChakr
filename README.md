@@ -7,4 +7,8 @@
 
 ---
 
+<img align="center" src="https://github-readme-stats.vercel.app/api?username=BilalChakr&theme=dark&hide_border=true&show_icons=true&title_color=fff&icon_color=05CB00&text_color=9f9f9f&bg_color=00000000" />
+
+---
+
 </div>
